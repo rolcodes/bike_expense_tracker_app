@@ -4,10 +4,10 @@
 •	Designed a basic 2-screen app UI using Figma mockups
 •	Used: Flutter, Dart & Figma
 ## Screenshots
-![ss1](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/b3dcc53f-152a-4054-985c-fdd9b03c5a47)
-![ss2](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/8a30172f-292b-4d75-aa85-afc9cfabcd7d)
-![ss3](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/17aeb292-1b30-41b2-b4ea-234c5618b169)
-![ss4](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/3156f0d4-c0fc-4011-b7b4-74d36f19fe65)
+![ss1](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/fa24093e-7330-4606-92f1-752716422f68)
+![ss2](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/c271652e-58ed-4696-8536-d2b530bb3f4a)
+![ss3](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/73504d44-4de9-4f71-8c25-2d692610b9ec)
+![ss4](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/e62c37de-f08b-46a8-9193-1954e2613920)
 
 
 
