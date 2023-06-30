@@ -8,6 +8,9 @@
 ![ss2](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/c271652e-58ed-4696-8536-d2b530bb3f4a)
 ![ss3](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/73504d44-4de9-4f71-8c25-2d692610b9ec)
 ![ss4](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/e62c37de-f08b-46a8-9193-1954e2613920)
+![ss5](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/9f047697-5f0a-4825-92a4-33dad89140c9)
+![ss6](https://github.com/jiroldev/bike-expense-tracker-app/assets/132939427/fd1fd662-8a87-4b80-872d-d59eb40dd3fe)
+
 
 
 
